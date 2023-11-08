@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+body{
+    background: rgb(47, 71, 255)
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cabecalho h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+    color: #182884;
+}
+.img-container{
+    display: flex;
+    height: 8em;
+    width: 8em;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+}

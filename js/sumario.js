@@ -46,6 +46,44 @@ import{ faccat49 } from "./exercicios/exerc49.js";
 import{ faccat50 } from "./exercicios/exerc50.js";
 import{ faccat51 } from "./exercicios/exerc51.js";
 import{ faccat52 } from "./exercicios/exerc52.js";
+import{ faccat53 } from "./exercicios/exerc53.js";
+import{ faccat54 } from "./exercicios/exerc54.js";
+import{ faccat55 } from "./exercicios/exerc55.js";
+import{ faccat56 } from "./exercicios/exerc56.js";
+import{ faccat57 } from "./exercicios/exerc57.js";
+import{ faccat58 } from "./exercicios/exerc58.js";
+import{ faccat59 } from "./exercicios/exerc59.js";
+import{ faccat60 } from "./exercicios/exerc60.js";
+import{ faccat61 } from "./exercicios/exerc61.js";
+import{ faccat62 } from "./exercicios/exerc62.js";
+import{ faccat63 } from "./exercicios/exerc63.js";
+import{ faccat64 } from "./exercicios/exerc64.js";
+import{ faccat65 } from "./exercicios/exerc65.js";
+import{ faccat66 } from "./exercicios/exerc66.js";
+import{ faccat67 } from "./exercicios/exerc67.js";
+import{ faccat68 } from "./exercicios/exerc68.js";
+import{ faccat69 } from "./exercicios/exerc69.js";
+import{ faccat70 } from "./exercicios/exerc70.js";
+import{ faccat71 } from "./exercicios/exerc71.js";
+import{ faccat72 } from "./exercicios/exerc72.js";
+import{ faccat73 } from "./exercicios/exerc73.js";
+import{ faccat74 } from "./exercicios/exerc74.js";
+import{ faccat75 } from "./exercicios/exerc75.js";
+import{ faccat76 } from "./exercicios/exerc76.js";
+import{ faccat78 } from "./exercicios/exerc78.js";
+import{ faccat79 } from "./exercicios/exerc79.js";
+import{ faccat80 } from "./exercicios/exerc80.js";
+import{ faccat81 } from "./exercicios/exerc81.js";
+import{ faccat82 } from "./exercicios/exerc82.js";
+import{ faccat83 } from "./exercicios/exerc83.js";
+import{ faccat84 } from "./exercicios/exerc84.js";
+import{ faccat85 } from "./exercicios/exerc85.js";
+import{ faccat86 } from "./exercicios/exerc86.js";
+import{ faccat87 } from "./exercicios/exerc87.js";
+import{ faccat88 } from "./exercicios/exerc88.js";
+import{ faccat89 } from "./exercicios/exerc89.js";
+import{ faccat90 } from "./exercicios/exerc90.js";
+import{ faccat91 } from "./exercicios/exerc91.js";
 
 const botoesInfo = [
     { nome: 'Exercicio 05', funcao: faccat05 },
@@ -96,6 +134,44 @@ const botoesInfo = [
     { nome: 'Exercicio 50', funcao: faccat50 },
     { nome: 'Exercicio 51', funcao: faccat51 },
     { nome: 'Exercicio 52', funcao: faccat52 },
+    { nome: 'Exercicio 53', funcao: faccat53 },
+    { nome: 'Exercicio 54', funcao: faccat54 },
+    { nome: 'Exercicio 55', funcao: faccat55 },
+    { nome: 'Exercicio 56', funcao: faccat56 },
+    { nome: 'Exercicio 57', funcao: faccat57 },
+    { nome: 'Exercicio 58', funcao: faccat58 },
+    { nome: 'Exercicio 59', funcao: faccat59 },
+    { nome: 'Exercicio 60', funcao: faccat60 },
+    { nome: 'Exercicio 61', funcao: faccat61 },
+    { nome: 'Exercicio 62', funcao: faccat62 },
+    { nome: 'Exercicio 63', funcao: faccat63 },
+    { nome: 'Exercicio 64', funcao: faccat64 },
+    { nome: 'Exercicio 65', funcao: faccat65 },
+    { nome: 'Exercicio 66', funcao: faccat66 },
+    { nome: 'Exercicio 67', funcao: faccat67 },
+    { nome: 'Exercicio 68', funcao: faccat68 },
+    { nome: 'Exercicio 69', funcao: faccat69 },
+    { nome: 'Exercicio 70', funcao: faccat70 },
+    { nome: 'Exercicio 71', funcao: faccat71 },
+    { nome: 'Exercicio 72', funcao: faccat72 },
+    { nome: 'Exercicio 73', funcao: faccat73 },
+    { nome: 'Exercicio 74', funcao: faccat74 },
+    { nome: 'Exercicio 75', funcao: faccat75 },
+    { nome: 'Exercicio 76', funcao: faccat76 },
+    { nome: 'Exercicio 78', funcao: faccat78 },
+    { nome: 'Exercicio 79', funcao: faccat79 },
+    { nome: 'Exercicio 80', funcao: faccat80 },
+    { nome: 'Exercicio 81', funcao: faccat81 },
+    { nome: 'Exercicio 82', funcao: faccat82 },
+    { nome: 'Exercicio 83', funcao: faccat83 },
+    { nome: 'Exercicio 84', funcao: faccat84 },
+    { nome: 'Exercicio 85', funcao: faccat85 },
+    { nome: 'Exercicio 86', funcao: faccat86 },
+    { nome: 'Exercicio 87', funcao: faccat87 },
+    { nome: 'Exercicio 88', funcao: faccat88 },
+    { nome: 'Exercicio 89', funcao: faccat89 },
+    { nome: 'Exercicio 90', funcao: faccat90 },
+    { nome: 'Exercicio 91', funcao: faccat91 },
 ];
 
 export default botoesInfo

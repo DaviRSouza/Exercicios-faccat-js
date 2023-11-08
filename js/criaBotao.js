@@ -1,5 +1,4 @@
 import botoesInfo from "./sumario.js";
-console.log(botoesInfo);
 
 const botoesContainer = document.getElementById('botoesContainer');
 
